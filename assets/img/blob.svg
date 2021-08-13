@@ -1,0 +1,26 @@
+<svg
+   class="home_blob"
+   viewBox="0 0 148.52033 147.01248"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <mask
+     id="a"
+     mask-type="alpha">
+    <path
+       fill="#b4cde2"
+       d="M 34.6,21.1 C 20.6,44.2 -31.7,46.4 -43.9,24.3 -56,2.3 -28,-43.9 -1.9,-44.9 24.3,-46 48.6,-2 34.6,21.1 Z"
+       transform="translate(60,70)" />
+  </mask>
+  <g
+     mask="url(#a)"
+     transform="matrix(1.7371072,0,0,1.7371072,-22.924596,-43.566226)">
+    <path
+       fill="#b4cde2"
+       d="M 34.6,21.1 C 20.6,44.2 -31.7,46.4 -43.9,24.3 -56,2.3 -28,-43.9 -1.9,-44.9 24.3,-46 48.6,-2 34.6,21.1 Z"
+       transform="translate(60,70)" />
+    <image
+       class="home_blob-img"
+       x="23"
+       y="23"
+       href="assets/img/perfil.png" />
+  </g>
+</svg>
