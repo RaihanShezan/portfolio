@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## This repo holds files for my personal website
+## This repo shows how to create a portfolio website
 
 💻 [Visit My Website for Profile, Projects & Contact Information](https://www.raihanshezan.com)
 
